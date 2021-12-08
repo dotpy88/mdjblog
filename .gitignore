@@ -13,3 +13,6 @@ db.sqlite3
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 .ebextensions/*
+
+#Venv
+/venv/
