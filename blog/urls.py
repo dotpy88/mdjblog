@@ -16,10 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, re_path
 
+
 from . import views
 
 app_name = 'blog'
 urlpatterns = [
         path('', views.home, name='home'),
         #re_path(r'^Torrents/ListView$', Torrents.torrent_list, name='torrentslist'),
-]
+] 
