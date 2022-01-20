@@ -22,5 +22,4 @@ from . import views
 app_name = 'blog'
 urlpatterns = [
         path('', views.home, name='home'),
-        #re_path(r'^Torrents/ListView$', Torrents.torrent_list, name='torrentslist'),
 ] 
