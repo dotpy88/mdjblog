@@ -10,7 +10,9 @@ admin
 
 password
 
-URLS to visit -
+URLS of project:
+
+(CHANGE IP ADDRESS IF CONTAINER IS NOT LOCAL
 
 http://127.0.0.1:8000/
 
