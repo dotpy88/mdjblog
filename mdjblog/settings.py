@@ -32,6 +32,9 @@ ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     'blog.apps.BlogConfig',
+    'rest_framework',
+    'django_filters',
+    'drf_yasg',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
