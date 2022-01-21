@@ -14,8 +14,11 @@
 **/*.jfm
 **/bin
 **/charts
+##
 **/venv
 **/db.sqlite3
+**/static/admin
+##
 **/docker-compose*
 **/compose*
 **/Dockerfile*
