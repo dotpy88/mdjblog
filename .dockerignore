@@ -27,4 +27,6 @@
 **/obj
 **/secrets.dev.yaml
 **/values.dev.yaml
+**/web-deployment.yaml
+**/web-service.yaml
 README.md
