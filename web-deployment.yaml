@@ -24,7 +24,7 @@ spec:
         io.kompose.service: web
     spec:
       containers:
-        - image: dockerdotpy/mdjblog
+        - image: dockerdotpy/mdjblog:v1
           imagePullPolicy: Always
           name: web
           ports:
